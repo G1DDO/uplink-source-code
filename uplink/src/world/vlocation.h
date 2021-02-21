@@ -38,6 +38,7 @@ public:
 	bool listed;				// Am I publicly listed?
     bool displayed;             // Should I be displayed on the world map?
 	bool colored;               // Should I be displayed in a distinct color on the world map?
+	bool phone;
 
 public:
 

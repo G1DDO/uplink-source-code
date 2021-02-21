@@ -42,6 +42,8 @@ protected:
     char *ip;
     bool isMission;             // If this object is related to a mission
 	bool isColored;             // If this object is colored
+	bool isPhone;             // If this object is a phone
+	
 
 };
 

@@ -1,0 +1,938 @@
+
+
+===============================================
+NEW GAME     13:56, 17/1/2021
+===============================================
+Version : 1.55STEAM
+RELEASE
+Win32 Build
+Version 1.55STEAM (RELEASE-STEAM)
+Compiled on Mar 22 2007 at 14:15:43
+
+Loading uplink options from C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/options...failed
+
+=====DEBUGGING INFORMATION ENABLED=====
+Initialising Steam...done.
+Loading application data
+Successfully loaded data archive data.dat
+Successfully loaded data archive graphics.dat
+Successfully loaded data archive loading.dat
+Successfully loaded data archive sounds.dat
+Successfully loaded data archive music.dat
+Successfully loaded data archive fonts.dat
+Successfully loaded data archive patch.dat
+Successfully loaded data archive patch2.dat
+Successfully loaded data archive patch3.dat
+Finished loading application data
+Init_Game called...creating game object
+Finished with Init_Game
+Saving uplink options to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/options...success
+Initialising SDL...done
+ SDL is now opening a 1024x768 window in 32 depth ...done
+ SDL is now changing the window caption and diverse settings ...done
+ Initialising OpenGL...
+Finished initialising OpenGL.
+Now registering callback functions...done
+ Saving uplink options to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/options...success
+Init_Fonts called...setting up system fonts
+Registering fonts...done
+ Loading system fonts into memory...
+done
+Unregistering fonts...done
+ Finished with Init_Fonts
+ Init_Sound called...setting up sound system
+Compiled with SDL_mixer version: 1.2.7
+Running with SDL_mixer version: 1.2.7
+Finished with Init_Sound
+Init_Music called...loading modules
+Finished with Init_Music
+Creating main menu.
+====== END OF DEBUGGING INFORMATION ====
+Loading LAN from data/lans/sample.txt...done
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDo.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDo.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDo.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDo.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDo.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDo.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDo.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDo.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDo.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDo.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDo.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDo.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDo.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDo.usr...success
+Loading LAN from data/lans/sample.txt...done
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Loading profile from C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDo.usr...success
+Loading LAN from data/lans/sample.txt...[Already Loaded]
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving uplink options to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/options...success
+
+
+===============================================
+NEW GAME     18:40, 17/1/2021
+===============================================
+Version : 1.55STEAM
+RELEASE
+Win32 Build
+Version 1.55STEAM (RELEASE-STEAM)
+Compiled on Mar 22 2007 at 14:15:43
+
+Loading uplink options from C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/options...success
+
+=====DEBUGGING INFORMATION ENABLED=====
+Initialising Steam...done.
+Loading application data
+Successfully loaded data archive data.dat
+Successfully loaded data archive graphics.dat
+Successfully loaded data archive loading.dat
+Successfully loaded data archive sounds.dat
+Successfully loaded data archive music.dat
+Successfully loaded data archive fonts.dat
+Successfully loaded data archive patch.dat
+Successfully loaded data archive patch2.dat
+Successfully loaded data archive patch3.dat
+Finished loading application data
+Init_Game called...creating game object
+Finished with Init_Game
+Saving uplink options to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/options...success
+Initialising SDL...done
+ SDL is now opening a 1024x768 window in 32 depth ...done
+ SDL is now changing the window caption and diverse settings ...done
+ Initialising OpenGL...
+Finished initialising OpenGL.
+Now registering callback functions...done
+ Saving uplink options to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/options...success
+Init_Fonts called...setting up system fonts
+Registering fonts...done
+ Loading system fonts into memory...
+done
+Unregistering fonts...done
+ Finished with Init_Fonts
+ Init_Sound called...setting up sound system
+Compiled with SDL_mixer version: 1.2.7
+Running with SDL_mixer version: 1.2.7
+Finished with Init_Sound
+Init_Music called...loading modules
+Finished with Init_Music
+Creating main menu.
+====== END OF DEBUGGING INFORMATION ====
+Saving uplink options to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/options...success
+
+
+===============================================
+NEW GAME     18:42, 17/1/2021
+===============================================
+Version : 1.55STEAM
+RELEASE
+Win32 Build
+Version 1.55STEAM (RELEASE-STEAM)
+Compiled on Mar 22 2007 at 14:15:43
+
+Loading uplink options from C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/options...success
+
+=====DEBUGGING INFORMATION ENABLED=====
+Initialising Steam...done.
+Loading application data
+Successfully loaded data archive data.dat
+Successfully loaded data archive graphics.dat
+Successfully loaded data archive loading.dat
+Successfully loaded data archive sounds.dat
+Successfully loaded data archive music.dat
+Successfully loaded data archive fonts.dat
+Successfully loaded data archive patch.dat
+Successfully loaded data archive patch2.dat
+Successfully loaded data archive patch3.dat
+Finished loading application data
+Init_Game called...creating game object
+Finished with Init_Game
+Saving uplink options to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/options...success
+Initialising SDL...done
+ SDL is now opening a 1024x768 window in 32 depth ...done
+ SDL is now changing the window caption and diverse settings ...done
+ Initialising OpenGL...
+Finished initialising OpenGL.
+Now registering callback functions...done
+ Saving uplink options to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/options...success
+Init_Fonts called...setting up system fonts
+Registering fonts...done
+ Loading system fonts into memory...
+done
+Unregistering fonts...done
+ Finished with Init_Fonts
+ Init_Sound called...setting up sound system
+Compiled with SDL_mixer version: 1.2.7
+Running with SDL_mixer version: 1.2.7
+Finished with Init_Sound
+Init_Music called...loading modules
+Finished with Init_Music
+Creating main menu.
+====== END OF DEBUGGING INFORMATION ====
+Loading profile from C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Loading LAN from data/lans/sample.txt...[Already Loaded]
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving uplink options to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/options...success
+
+
+===============================================
+NEW GAME     21:18, 17/1/2021
+===============================================
+Version : 1.55STEAM
+RELEASE
+Win32 Build
+Version 1.55STEAM (RELEASE-STEAM)
+Compiled on Mar 22 2007 at 14:15:43
+
+Loading uplink options from C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/options...success
+
+=====DEBUGGING INFORMATION ENABLED=====
+Initialising Steam...done.
+Loading application data
+Successfully loaded data archive data.dat
+Successfully loaded data archive graphics.dat
+Successfully loaded data archive loading.dat
+Successfully loaded data archive sounds.dat
+Successfully loaded data archive music.dat
+Successfully loaded data archive fonts.dat
+Successfully loaded data archive patch.dat
+Successfully loaded data archive patch2.dat
+Successfully loaded data archive patch3.dat
+Finished loading application data
+Init_Game called...creating game object
+Finished with Init_Game
+Saving uplink options to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/options...success
+Initialising SDL...done
+ SDL is now opening a 1024x768 window in 32 depth ...done
+ SDL is now changing the window caption and diverse settings ...done
+ Initialising OpenGL...
+Finished initialising OpenGL.
+Now registering callback functions...done
+ Saving uplink options to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/options...success
+Init_Fonts called...setting up system fonts
+Registering fonts...done
+ Loading system fonts into memory...
+done
+Unregistering fonts...done
+ Finished with Init_Fonts
+ Init_Sound called...setting up sound system
+Compiled with SDL_mixer version: 1.2.7
+Running with SDL_mixer version: 1.2.7
+Finished with Init_Sound
+Init_Music called...loading modules
+Finished with Init_Music
+Creating main menu.
+====== END OF DEBUGGING INFORMATION ====
+Loading profile from C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Loading LAN from data/lans/sample.txt...[Already Loaded]
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving uplink options to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/options...success
+
+
+===============================================
+NEW GAME     21:45, 18/1/2021
+===============================================
+Version : 1.55STEAM
+RELEASE
+Win32 Build
+Version 1.55STEAM (RELEASE-STEAM)
+Compiled on Mar 22 2007 at 14:15:43
+
+Loading uplink options from C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/options...success
+
+=====DEBUGGING INFORMATION ENABLED=====
+Initialising Steam...done.
+Loading application data
+Successfully loaded data archive data.dat
+Successfully loaded data archive graphics.dat
+Successfully loaded data archive loading.dat
+Successfully loaded data archive sounds.dat
+Successfully loaded data archive music.dat
+Successfully loaded data archive fonts.dat
+Successfully loaded data archive patch.dat
+Successfully loaded data archive patch2.dat
+Successfully loaded data archive patch3.dat
+Finished loading application data
+Init_Game called...creating game object
+Finished with Init_Game
+Saving uplink options to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/options...success
+Initialising SDL...done
+ SDL is now opening a 1024x768 window in 32 depth ...done
+ SDL is now changing the window caption and diverse settings ...done
+ Initialising OpenGL...
+Finished initialising OpenGL.
+Now registering callback functions...done
+ Saving uplink options to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/options...success
+Init_Fonts called...setting up system fonts
+Registering fonts...done
+ Loading system fonts into memory...
+done
+Unregistering fonts...done
+ Finished with Init_Fonts
+ Init_Sound called...setting up sound system
+Compiled with SDL_mixer version: 1.2.7
+Running with SDL_mixer version: 1.2.7
+Finished with Init_Sound
+Init_Music called...loading modules
+Finished with Init_Music
+Creating main menu.
+====== END OF DEBUGGING INFORMATION ====
+Loading profile from C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Loading LAN from data/lans/sample.txt...[Already Loaded]
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving uplink options to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/options...success
+
+
+===============================================
+NEW GAME     21:22, 19/1/2021
+===============================================
+Version : 1.55STEAM
+RELEASE
+Win32 Build
+Version 1.55STEAM (RELEASE-STEAM)
+Compiled on Mar 22 2007 at 14:15:43
+
+Loading uplink options from C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/options...success
+
+=====DEBUGGING INFORMATION ENABLED=====
+Initialising Steam...done.
+Loading application data
+Successfully loaded data archive data.dat
+Successfully loaded data archive graphics.dat
+Successfully loaded data archive loading.dat
+Successfully loaded data archive sounds.dat
+Successfully loaded data archive music.dat
+Successfully loaded data archive fonts.dat
+Successfully loaded data archive patch.dat
+Successfully loaded data archive patch2.dat
+Successfully loaded data archive patch3.dat
+Finished loading application data
+Init_Game called...creating game object
+Finished with Init_Game
+Saving uplink options to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/options...success
+Initialising SDL...done
+ SDL is now opening a 1024x768 window in 32 depth ...done
+ SDL is now changing the window caption and diverse settings ...done
+ Initialising OpenGL...
+Finished initialising OpenGL.
+Now registering callback functions...done
+ Saving uplink options to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/options...success
+Init_Fonts called...setting up system fonts
+Registering fonts...done
+ Loading system fonts into memory...
+done
+Unregistering fonts...done
+ Finished with Init_Fonts
+ Init_Sound called...setting up sound system
+Compiled with SDL_mixer version: 1.2.7
+Running with SDL_mixer version: 1.2.7
+Finished with Init_Sound
+Init_Music called...loading modules
+Finished with Init_Music
+Creating main menu.
+====== END OF DEBUGGING INFORMATION ====
+Loading profile from C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Loading LAN from data/lans/sample.txt...[Already Loaded]
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving uplink options to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/options...success
+
+
+===============================================
+NEW GAME     10:10, 20/1/2021
+===============================================
+Version : 1.55STEAM
+RELEASE
+Win32 Build
+Version 1.55STEAM (RELEASE-STEAM)
+Compiled on Mar 22 2007 at 14:15:43
+
+Loading uplink options from C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/options...success
+
+=====DEBUGGING INFORMATION ENABLED=====
+Initialising Steam...done.
+Loading application data
+Successfully loaded data archive data.dat
+Successfully loaded data archive graphics.dat
+Successfully loaded data archive loading.dat
+Successfully loaded data archive sounds.dat
+Successfully loaded data archive music.dat
+Successfully loaded data archive fonts.dat
+Successfully loaded data archive patch.dat
+Successfully loaded data archive patch2.dat
+Successfully loaded data archive patch3.dat
+Finished loading application data
+Init_Game called...creating game object
+Finished with Init_Game
+Saving uplink options to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/options...success
+Initialising SDL...done
+ SDL is now opening a 1024x768 window in 32 depth ...done
+ SDL is now changing the window caption and diverse settings ...done
+ Initialising OpenGL...
+Finished initialising OpenGL.
+Now registering callback functions...done
+ Saving uplink options to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/options...success
+Init_Fonts called...setting up system fonts
+Registering fonts...done
+ Loading system fonts into memory...
+done
+Unregistering fonts...done
+ Finished with Init_Fonts
+ Init_Sound called...setting up sound system
+Compiled with SDL_mixer version: 1.2.7
+Running with SDL_mixer version: 1.2.7
+Finished with Init_Sound
+Init_Music called...loading modules
+Finished with Init_Music
+Creating main menu.
+====== END OF DEBUGGING INFORMATION ====
+Loading profile from C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Loading LAN from data/lans/sample.txt...[Already Loaded]
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving uplink options to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/options...success
+
+
+===============================================
+NEW GAME     10:43, 20/1/2021
+===============================================
+Version : 1.55STEAM
+RELEASE
+Win32 Build
+Version 1.55STEAM (RELEASE-STEAM)
+Compiled on Mar 22 2007 at 14:15:43
+
+Loading uplink options from C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/options...success
+
+=====DEBUGGING INFORMATION ENABLED=====
+Initialising Steam...done.
+Loading application data
+Successfully loaded data archive data.dat
+Successfully loaded data archive graphics.dat
+Successfully loaded data archive loading.dat
+Successfully loaded data archive sounds.dat
+Successfully loaded data archive music.dat
+Successfully loaded data archive fonts.dat
+Successfully loaded data archive patch.dat
+Successfully loaded data archive patch2.dat
+Successfully loaded data archive patch3.dat
+Finished loading application data
+Init_Game called...creating game object
+Finished with Init_Game
+Saving uplink options to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/options...success
+Initialising SDL...done
+ SDL is now opening a 1024x768 window in 32 depth ...done
+ SDL is now changing the window caption and diverse settings ...done
+ Initialising OpenGL...
+Finished initialising OpenGL.
+Now registering callback functions...done
+ Saving uplink options to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/options...success
+Init_Fonts called...setting up system fonts
+Registering fonts...done
+ Loading system fonts into memory...
+done
+Unregistering fonts...done
+ Finished with Init_Fonts
+ Init_Sound called...setting up sound system
+Compiled with SDL_mixer version: 1.2.7
+Running with SDL_mixer version: 1.2.7
+Finished with Init_Sound
+Init_Music called...loading modules
+Finished with Init_Music
+Creating main menu.
+====== END OF DEBUGGING INFORMATION ====
+Loading profile from C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Loading LAN from data/lans/sample.txt...[Already Loaded]
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving uplink options to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/options...success
+
+
+===============================================
+NEW GAME     11:17, 20/1/2021
+===============================================
+Version : 1.55STEAM
+RELEASE
+Win32 Build
+Version 1.55STEAM (RELEASE-STEAM)
+Compiled on Mar 22 2007 at 14:15:43
+
+Loading uplink options from C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/options...success
+
+=====DEBUGGING INFORMATION ENABLED=====
+Initialising Steam...done.
+Loading application data
+Successfully loaded data archive data.dat
+Successfully loaded data archive graphics.dat
+Successfully loaded data archive loading.dat
+Successfully loaded data archive sounds.dat
+Successfully loaded data archive music.dat
+Successfully loaded data archive fonts.dat
+Successfully loaded data archive patch.dat
+Successfully loaded data archive patch2.dat
+Successfully loaded data archive patch3.dat
+Finished loading application data
+Init_Game called...creating game object
+Finished with Init_Game
+Saving uplink options to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/options...success
+Initialising SDL...done
+ SDL is now opening a 1024x768 window in 32 depth ...done
+ SDL is now changing the window caption and diverse settings ...done
+ Initialising OpenGL...
+Finished initialising OpenGL.
+Now registering callback functions...done
+ Saving uplink options to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/options...success
+Init_Fonts called...setting up system fonts
+Registering fonts...done
+ Loading system fonts into memory...
+done
+Unregistering fonts...done
+ Finished with Init_Fonts
+ Init_Sound called...setting up sound system
+Compiled with SDL_mixer version: 1.2.7
+Running with SDL_mixer version: 1.2.7
+Finished with Init_Sound
+Init_Music called...loading modules
+Finished with Init_Music
+Creating main menu.
+====== END OF DEBUGGING INFORMATION ====
+Loading profile from C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Loading LAN from data/lans/sample.txt...[Already Loaded]
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving uplink options to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/options...success
+
+
+===============================================
+NEW GAME     14:48, 20/1/2021
+===============================================
+Version : 1.55STEAM
+RELEASE
+Win32 Build
+Version 1.55STEAM (RELEASE-STEAM)
+Compiled on Mar 22 2007 at 14:15:43
+
+Loading uplink options from C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/options...success
+
+=====DEBUGGING INFORMATION ENABLED=====
+Initialising Steam...done.
+Loading application data
+Successfully loaded data archive data.dat
+Successfully loaded data archive graphics.dat
+Successfully loaded data archive loading.dat
+Successfully loaded data archive sounds.dat
+Successfully loaded data archive music.dat
+Successfully loaded data archive fonts.dat
+Successfully loaded data archive patch.dat
+Successfully loaded data archive patch2.dat
+Successfully loaded data archive patch3.dat
+Finished loading application data
+Init_Game called...creating game object
+Finished with Init_Game
+Saving uplink options to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/options...success
+Initialising SDL...done
+ SDL is now opening a 1024x768 window in 32 depth ...done
+ SDL is now changing the window caption and diverse settings ...done
+ Initialising OpenGL...
+Finished initialising OpenGL.
+Now registering callback functions...done
+ Saving uplink options to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/options...success
+Init_Fonts called...setting up system fonts
+Registering fonts...done
+ Loading system fonts into memory...
+done
+Unregistering fonts...done
+ Finished with Init_Fonts
+ Init_Sound called...setting up sound system
+Compiled with SDL_mixer version: 1.2.7
+Running with SDL_mixer version: 1.2.7
+Finished with Init_Sound
+Init_Music called...loading modules
+Finished with Init_Music
+Creating main menu.
+====== END OF DEBUGGING INFORMATION ====
+Loading profile from C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...HUDInterface::HighlightToolbarButton, invalid button : hud_mission 3
+success
+Loading LAN from data/lans/sample.txt...[Already Loaded]
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Loading profile from C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Loading LAN from data/lans/sample.txt...[Already Loaded]
+AccessLog : TYPE=2
+Date: 0:4:55, 1/4/2010
+Not Syncronised with real world time
+fromIP:582.527.614.791, fromNAME:PLAYER
+This was not suspicious
+AccessLog : TYPE=1
+Date: 9:39:8, 4/4/2010
+Not Syncronised with real world time
+fromIP:582.527.614.791, fromNAME:PLAYER
+This was not suspicious
+Data1 : Password authentication accepted
+AccessLog : TYPE=5
+Date: 3:1:21, 7/4/2010
+Not Syncronised with real world time
+fromIP:458.615.48.651, fromNAME:PLAYER
+This was not suspicious
+Data1 : 52.658.73.327
+AccessLog : TYPE=1
+Date: 3:3:35, 7/4/2010
+Not Syncronised with real world time
+fromIP:582.527.614.791, fromNAME:PLAYER
+This was not suspicious
+Data1 : Password authentication accepted
+AccessLog : TYPE=1
+Date: 3:5:18, 7/4/2010
+Not Syncronised with real world time
+fromIP:582.527.614.791, fromNAME:PLAYER
+This was not suspicious
+Data1 : Password authentication accepted
+AccessLog : TYPE=2
+Date: 3:4:44, 7/4/2010
+Not Syncronised with real world time
+fromIP:582.527.614.791, fromNAME:PLAYER
+This was not suspicious
+AccessLog : TYPE=5
+Date: 3:4:44, 7/4/2010
+Not Syncronised with real world time
+fromIP:458.615.48.651, fromNAME:PLAYER
+This was not suspicious
+Data1 : 52.658.73.327
+AccessLog : TYPE=2
+Date: 1:8:19, 10/4/2010
+Not Syncronised with real world time
+fromIP:582.527.614.791, fromNAME:PLAYER
+This was not suspicious
+AccessLog : TYPE=2
+Date: 1:5:52, 10/4/2010
+Not Syncronised with real world time
+fromIP:582.527.614.791, fromNAME:PLAYER
+This was not suspicious
+AccessLog : TYPE=1
+Date: 1:6:31, 10/4/2010
+Not Syncronised with real world time
+fromIP:582.527.614.791, fromNAME:PLAYER
+This was not suspicious
+Data1 : Password authentication accepted
+AccessLog : TYPE=1
+Date: 1:6:35, 10/4/2010
+Not Syncronised with r
+
+===============================================
+NEW GAME     5:52, 21/1/2021
+===============================================
+Version : 1.55STEAM
+RELEASE
+Win32 Build
+Version 1.55STEAM (RELEASE-STEAM)
+Compiled on Mar 22 2007 at 14:15:43
+
+Loading uplink options from C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/options...success
+
+=====DEBUGGING INFORMATION ENABLED=====
+Initialising Steam...done.
+Loading application data
+Successfully loaded data archive data.dat
+Successfully loaded data archive graphics.dat
+Successfully loaded data archive loading.dat
+Successfully loaded data archive sounds.dat
+Successfully loaded data archive music.dat
+Successfully loaded data archive fonts.dat
+Successfully loaded data archive patch.dat
+Successfully loaded data archive patch2.dat
+Successfully loaded data archive patch3.dat
+Finished loading application data
+Init_Game called...creating game object
+Finished with Init_Game
+Saving uplink options to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/options...success
+Initialising SDL...done
+ SDL is now opening a 1024x768 window in 32 depth ...done
+ SDL is now changing the window caption and diverse settings ...done
+ Initialising OpenGL...
+Finished initialising OpenGL.
+Now registering callback functions...done
+ Saving uplink options to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/options...success
+Init_Fonts called...setting up system fonts
+Registering fonts...done
+ Loading system fonts into memory...
+done
+Unregistering fonts...done
+ Finished with Init_Fonts
+ Init_Sound called...setting up sound system
+Compiled with SDL_mixer version: 1.2.7
+Running with SDL_mixer version: 1.2.7
+Finished with Init_Sound
+Init_Music called...loading modules
+Finished with Init_Music
+Creating main menu.
+====== END OF DEBUGGING INFORMATION ====
+Loading profile from C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Loading LAN from data/lans/sample.txt...[Already Loaded]
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.usr...success
+Saving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DDO.tmp...success. Moving profile to C:\Program Files (x86)\Steam\steamapps\common\Uplink\users/G1DD

@@ -1,0 +1,1152 @@
+
+
+===============================================
+NEW GAME     0:32, 14/2/2021
+===============================================
+Version : 10.0
+RELEASE
+Win32 Build
+Version 10.0 (RELEASE)
+Compiled on Feb 14 2021 at 00:28:20
+
+Loading uplink options from C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...failed
+
+=====DEBUGGING INFORMATION ENABLED=====
+Initialising Steam...Could not initialize Steam: Function not found.
+
+An error occured in Uplink
+Files integrity is not verified
+Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+
+
+===============================================
+NEW GAME     0:33, 14/2/2021
+===============================================
+Version : 10.0
+RELEASE
+Win32 Build
+Version 10.0 (RELEASE)
+Compiled on Feb 14 2021 at 00:28:20
+
+Loading uplink options from C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+
+=====DEBUGGING INFORMATION ENABLED=====
+Initialising Steam...Could not initialize Steam: Function not found.
+Loading application data
+Successfully loaded data archive data.dat
+Successfully loaded data archive graphics.dat
+Successfully loaded data archive loading.dat
+Successfully loaded data archive sounds.dat
+Successfully loaded data archive music.dat
+Successfully loaded data archive fonts.dat
+Successfully loaded data archive patch.dat
+Successfully loaded data archive patch2.dat
+Successfully loaded data archive patch3.dat
+Finished loading application data
+Init_Game called...creating game object
+Finished with Init_Game
+Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+Initialising SDL...done
+ SDL is now opening a 1920x1080 window in 16 depth ...done
+ SDL is now changing the window caption and diverse settings ...done
+ Initialising OpenGL...
+Finished initialising OpenGL.
+Now registering callback functions...done
+ Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+Init_Fonts called...setting up system fonts
+Registering fonts...done
+ Loading system fonts into memory...
+done
+Unregistering fonts...done
+ Finished with Init_Fonts
+ Init_Sound called...setting up sound system
+Compiled with SDL_mixer version: 1.2.7
+Running with SDL_mixer version: 1.2.7
+Finished with Init_Sound
+Init_Music called...loading modules
+Finished with Init_Music
+Creating main menu.
+====== END OF DEBUGGING INFORMATION ====
+Loading LAN from data/lans/sample.txt...done
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+
+
+===============================================
+NEW GAME     9:45, 14/2/2021
+===============================================
+Version : 10.0
+RELEASE
+Win32 Build
+Version 10.0 (RELEASE)
+Compiled on Feb 14 2021 at 00:28:20
+
+Loading uplink options from C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+
+=====DEBUGGING INFORMATION ENABLED=====
+Initialising Steam...Could not initialize Steam: Function not found.
+Loading application data
+Successfully loaded data archive data.dat
+Successfully loaded data archive graphics.dat
+Successfully loaded data archive loading.dat
+Successfully loaded data archive sounds.dat
+Successfully loaded data archive music.dat
+Successfully loaded data archive fonts.dat
+Successfully loaded data archive patch.dat
+Successfully loaded data archive patch2.dat
+Successfully loaded data archive patch3.dat
+Finished loading application data
+Init_Game called...creating game object
+Finished with Init_Game
+Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+Initialising SDL...done
+ SDL is now opening a 1920x1080 window in 16 depth ...done
+ SDL is now changing the window caption and diverse settings ...done
+ Initialising OpenGL...
+Finished initialising OpenGL.
+Now registering callback functions...done
+ Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+Init_Fonts called...setting up system fonts
+Registering fonts...done
+ Loading system fonts into memory...
+done
+Unregistering fonts...done
+ Finished with Init_Fonts
+ Init_Sound called...setting up sound system
+Compiled with SDL_mixer version: 1.2.7
+Running with SDL_mixer version: 1.2.7
+Finished with Init_Sound
+Init_Music called...loading modules
+Finished with Init_Music
+Creating main menu.
+====== END OF DEBUGGING INFORMATION ====
+Loading profile from C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Loading LAN from data/lans/sample.txt...[Already Loaded]
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+
+
+===============================================
+NEW GAME     11:20, 14/2/2021
+===============================================
+Version : 10.0
+RELEASE
+Win32 Build
+Version 10.0 (RELEASE)
+Compiled on Feb 14 2021 at 11:18:08
+
+Loading uplink options from C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+
+=====DEBUGGING INFORMATION ENABLED=====
+Initialising Steam...Could not initialize Steam: Function not found.
+Loading application data
+Successfully loaded data archive data.dat
+Successfully loaded data archive graphics.dat
+Successfully loaded data archive loading.dat
+Successfully loaded data archive sounds.dat
+Successfully loaded data archive music.dat
+Successfully loaded data archive fonts.dat
+Successfully loaded data archive patch.dat
+Successfully loaded data archive patch2.dat
+Successfully loaded data archive patch3.dat
+Finished loading application data
+Init_Game called...creating game object
+Finished with Init_Game
+Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+Initialising SDL...done
+ SDL is now opening a 1920x1080 window in 16 depth ...done
+ SDL is now changing the window caption and diverse settings ...done
+ Initialising OpenGL...
+Finished initialising OpenGL.
+Now registering callback functions...done
+ Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+Init_Fonts called...setting up system fonts
+Registering fonts...done
+ Loading system fonts into memory...
+done
+Unregistering fonts...done
+ Finished with Init_Fonts
+ Init_Sound called...setting up sound system
+Compiled with SDL_mixer version: 1.2.7
+Running with SDL_mixer version: 1.2.7
+Finished with Init_Sound
+Init_Music called...loading modules
+Finished with Init_Music
+Creating main menu.
+====== END OF DEBUGGING INFORMATION ====
+Loading profile from C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Loading LAN from data/lans/sample.txt...[Already Loaded]
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+
+
+===============================================
+NEW GAME     11:25, 14/2/2021
+===============================================
+Version : 10.0
+RELEASE
+Win32 Build
+Version 10.0 (RELEASE)
+Compiled on Feb 14 2021 at 11:23:57
+
+Loading uplink options from C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+
+=====DEBUGGING INFORMATION ENABLED=====
+Initialising Steam...Could not initialize Steam: Function not found.
+Loading application data
+Successfully loaded data archive data.dat
+Successfully loaded data archive graphics.dat
+Successfully loaded data archive loading.dat
+Successfully loaded data archive sounds.dat
+Successfully loaded data archive music.dat
+Successfully loaded data archive fonts.dat
+Successfully loaded data archive patch.dat
+Successfully loaded data archive patch2.dat
+Successfully loaded data archive patch3.dat
+Finished loading application data
+Init_Game called...creating game object
+Finished with Init_Game
+Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+Initialising SDL...done
+ SDL is now opening a 1920x1080 window in 16 depth ...done
+ SDL is now changing the window caption and diverse settings ...done
+ Initialising OpenGL...
+Finished initialising OpenGL.
+Now registering callback functions...done
+ Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+Init_Fonts called...setting up system fonts
+Registering fonts...done
+ Loading system fonts into memory...
+done
+Unregistering fonts...done
+ Finished with Init_Fonts
+ Init_Sound called...setting up sound system
+Compiled with SDL_mixer version: 1.2.7
+Running with SDL_mixer version: 1.2.7
+Finished with Init_Sound
+Init_Music called...loading modules
+Finished with Init_Music
+Creating main menu.
+====== END OF DEBUGGING INFORMATION ====
+Loading profile from C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Loading LAN from data/lans/sample.txt...[Already Loaded]
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+
+
+===============================================
+NEW GAME     15:46, 14/2/2021
+===============================================
+Version : 10.0
+RELEASE
+Win32 Build
+Version 10.0 (RELEASE)
+Compiled on Feb 14 2021 at 15:44:01
+
+Loading uplink options from C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+
+=====DEBUGGING INFORMATION ENABLED=====
+Initialising Steam...Could not initialize Steam: Function not found.
+Loading application data
+Successfully loaded data archive data.dat
+Successfully loaded data archive graphics.dat
+Successfully loaded data archive loading.dat
+Successfully loaded data archive sounds.dat
+Successfully loaded data archive music.dat
+Successfully loaded data archive fonts.dat
+Successfully loaded data archive patch.dat
+Successfully loaded data archive patch2.dat
+Successfully loaded data archive patch3.dat
+Finished loading application data
+Init_Game called...creating game object
+Finished with Init_Game
+Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+Initialising SDL...done
+ SDL is now opening a 1920x1080 window in 16 depth ...done
+ SDL is now changing the window caption and diverse settings ...done
+ Initialising OpenGL...
+Finished initialising OpenGL.
+Now registering callback functions...done
+ Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+Init_Fonts called...setting up system fonts
+Registering fonts...done
+ Loading system fonts into memory...
+done
+Unregistering fonts...done
+ Finished with Init_Fonts
+ Init_Sound called...setting up sound system
+Compiled with SDL_mixer version: 1.2.7
+Running with SDL_mixer version: 1.2.7
+Finished with Init_Sound
+Init_Music called...loading modules
+Finished with Init_Music
+Creating main menu.
+====== END OF DEBUGGING INFORMATION ====
+Loading profile from C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Loading LAN from data/lans/sample.txt...[Already Loaded]
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+
+
+===============================================
+NEW GAME     15:53, 14/2/2021
+===============================================
+Version : 10.0
+RELEASE
+Win32 Build
+Version 10.0 (RELEASE)
+Compiled on Feb 14 2021 at 15:51:05
+
+Loading uplink options from C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+
+=====DEBUGGING INFORMATION ENABLED=====
+Initialising Steam...Could not initialize Steam: Function not found.
+Loading application data
+Successfully loaded data archive data.dat
+Successfully loaded data archive graphics.dat
+Successfully loaded data archive loading.dat
+Successfully loaded data archive sounds.dat
+Successfully loaded data archive music.dat
+Successfully loaded data archive fonts.dat
+Successfully loaded data archive patch.dat
+Successfully loaded data archive patch2.dat
+Successfully loaded data archive patch3.dat
+Finished loading application data
+Init_Game called...creating game object
+Finished with Init_Game
+Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+Initialising SDL...done
+ SDL is now opening a 1920x1080 window in 16 depth ...done
+ SDL is now changing the window caption and diverse settings ...done
+ Initialising OpenGL...
+Finished initialising OpenGL.
+Now registering callback functions...done
+ Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+Init_Fonts called...setting up system fonts
+Registering fonts...done
+ Loading system fonts into memory...
+done
+Unregistering fonts...done
+ Finished with Init_Fonts
+ Init_Sound called...setting up sound system
+Compiled with SDL_mixer version: 1.2.7
+Running with SDL_mixer version: 1.2.7
+Finished with Init_Sound
+Init_Music called...loading modules
+Finished with Init_Music
+Creating main menu.
+====== END OF DEBUGGING INFORMATION ====
+Loading profile from C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Loading LAN from data/lans/sample.txt...[Already Loaded]
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Retire profile test ...success
+Loading LAN from data/lans/sample.txt...done
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+
+
+===============================================
+NEW GAME     16:3, 14/2/2021
+===============================================
+Version : 10.0
+RELEASE
+Win32 Build
+Version 10.0 (RELEASE)
+Compiled on Feb 14 2021 at 16:01:07
+
+Loading uplink options from C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+
+=====DEBUGGING INFORMATION ENABLED=====
+Initialising Steam...Could not initialize Steam: Function not found.
+Loading application data
+Successfully loaded data archive data.dat
+Successfully loaded data archive graphics.dat
+Successfully loaded data archive loading.dat
+Successfully loaded data archive sounds.dat
+Successfully loaded data archive music.dat
+Successfully loaded data archive fonts.dat
+Successfully loaded data archive patch.dat
+Successfully loaded data archive patch2.dat
+Successfully loaded data archive patch3.dat
+Finished loading application data
+Init_Game called...creating game object
+Finished with Init_Game
+Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+Initialising SDL...done
+ SDL is now opening a 1920x1080 window in 16 depth ...done
+ SDL is now changing the window caption and diverse settings ...done
+ Initialising OpenGL...
+Finished initialising OpenGL.
+Now registering callback functions...done
+ Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+Init_Fonts called...setting up system fonts
+Registering fonts...done
+ Loading system fonts into memory...
+done
+Unregistering fonts...done
+ Finished with Init_Fonts
+ Init_Sound called...setting up sound system
+Compiled with SDL_mixer version: 1.2.7
+Running with SDL_mixer version: 1.2.7
+Finished with Init_Sound
+Init_Music called...loading modules
+Finished with Init_Music
+Creating main menu.
+====== END OF DEBUGGING INFORMATION ====
+Loading profile from C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Loading LAN from data/lans/sample.txt...[Already Loaded]
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Using gathered resolutions.
+Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+
+
+===============================================
+NEW GAME     16:7, 14/2/2021
+===============================================
+Version : 10.0
+RELEASE
+Win32 Build
+Version 10.0 (RELEASE)
+Compiled on Feb 14 2021 at 16:01:07
+
+Loading uplink options from C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+
+=====DEBUGGING INFORMATION ENABLED=====
+Initialising Steam...Could not initialize Steam: Function not found.
+Loading application data
+Successfully loaded data archive data.dat
+Successfully loaded data archive graphics.dat
+Successfully loaded data archive loading.dat
+Successfully loaded data archive sounds.dat
+Successfully loaded data archive music.dat
+Successfully loaded data archive fonts.dat
+Successfully loaded data archive patch.dat
+Successfully loaded data archive patch2.dat
+Successfully loaded data archive patch3.dat
+Finished loading application data
+Init_Game called...creating game object
+Finished with Init_Game
+Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+Initialising SDL...done
+ SDL is now opening a 1920x1080 window in 16 depth ...done
+ SDL is now changing the window caption and diverse settings ...done
+ Initialising OpenGL...
+Finished initialising OpenGL.
+Now registering callback functions...done
+ Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+Init_Fonts called...setting up system fonts
+Registering fonts...done
+ Loading system fonts into memory...
+done
+Unregistering fonts...done
+ Finished with Init_Fonts
+ Init_Sound called...setting up sound system
+Compiled with SDL_mixer version: 1.2.7
+Running with SDL_mixer version: 1.2.7
+Finished with Init_Sound
+Init_Music called...loading modules
+Finished with Init_Music
+Creating main menu.
+====== END OF DEBUGGING INFORMATION ====
+Loading profile from C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Loading LAN from data/lans/sample.txt...[Already Loaded]
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+
+
+===============================================
+NEW GAME     16:11, 14/2/2021
+===============================================
+Version : 10.0
+RELEASE
+Win32 Build
+Version 10.0 (RELEASE)
+Compiled on Feb 14 2021 at 16:01:07
+
+Loading uplink options from C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+
+=====DEBUGGING INFORMATION ENABLED=====
+Initialising Steam...Could not initialize Steam: Function not found.
+Loading application data
+Successfully loaded data archive data.dat
+Successfully loaded data archive graphics.dat
+Successfully loaded data archive loading.dat
+Successfully loaded data archive sounds.dat
+Successfully loaded data archive music.dat
+Successfully loaded data archive fonts.dat
+Successfully loaded data archive patch.dat
+Successfully loaded data archive patch2.dat
+Successfully loaded data archive patch3.dat
+Finished loading application data
+Init_Game called...creating game object
+Finished with Init_Game
+Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+Initialising SDL...done
+ SDL is now opening a 1920x1080 window in 16 depth ...done
+ SDL is now changing the window caption and diverse settings ...done
+ Initialising OpenGL...
+Finished initialising OpenGL.
+Now registering callback functions...done
+ Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+Init_Fonts called...setting up system fonts
+Registering fonts...done
+ Loading system fonts into memory...
+done
+Unregistering fonts...done
+ Finished with Init_Fonts
+ Init_Sound called...setting up sound system
+Compiled with SDL_mixer version: 1.2.7
+Running with SDL_mixer version: 1.2.7
+Finished with Init_Sound
+Init_Music called...loading modules
+Finished with Init_Music
+Creating main menu.
+====== END OF DEBUGGING INFORMATION ====
+Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+
+
+===============================================
+NEW GAME     16:13, 14/2/2021
+===============================================
+Version : 10.0
+RELEASE
+Win32 Build
+Version 10.0 (RELEASE)
+Compiled on Feb 14 2021 at 16:01:07
+
+Loading uplink options from C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...failed
+
+=====DEBUGGING INFORMATION ENABLED=====
+Initialising Steam...Could not initialize Steam: Function not found.
+Loading application data
+Successfully loaded data archive data.dat
+Successfully loaded data archive graphics.dat
+Successfully loaded data archive loading.dat
+Successfully loaded data archive sounds.dat
+Successfully loaded data archive music.dat
+Successfully loaded data archive fonts.dat
+Successfully loaded data archive patch.dat
+Successfully loaded data archive patch2.dat
+Successfully loaded data archive patch3.dat
+Finished loading application data
+Init_Game called...creating game object
+Finished with Init_Game
+Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+Initialising SDL...done
+ SDL is now opening a 1920x1080 window in 16 depth ...done
+ SDL is now changing the window caption and diverse settings ...done
+ Initialising OpenGL...
+Finished initialising OpenGL.
+Now registering callback functions...done
+ Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+Init_Fonts called...setting up system fonts
+Registering fonts...done
+ Loading system fonts into memory...
+done
+Unregistering fonts...done
+ Finished with Init_Fonts
+ Init_Sound called...setting up sound system
+Compiled with SDL_mixer version: 1.2.7
+Running with SDL_mixer version: 1.2.7
+Finished with Init_Sound
+Init_Music called...loading modules
+Finished with Init_Music
+Creating main menu.
+====== END OF DEBUGGING INFORMATION ====
+Loading profile from C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Loading LAN from data/lans/sample.txt...[Already Loaded]
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving
+
+===============================================
+NEW GAME     16:29, 14/2/2021
+===============================================
+Version : 10.0
+RELEASE
+Win32 Build
+Version 10.0 (RELEASE)
+Compiled on Feb 14 2021 at 16:01:07
+
+Loading uplink options from C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+
+=====DEBUGGING INFORMATION ENABLED=====
+Initialising Steam...Could not initialize Steam: Function not found.
+Loading application data
+Successfully loaded data archive data.dat
+Successfully loaded data archive graphics.dat
+Successfully loaded data archive loading.dat
+Successfully loaded data archive sounds.dat
+Successfully loaded data archive music.dat
+Successfully loaded data archive fonts.dat
+Successfully loaded data archive patch.dat
+Successfully loaded data archive patch2.dat
+Successfully loaded data archive patch3.dat
+Finished loading application data
+Init_Game called...creating game object
+Finished with Init_Game
+Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+Initialising SDL...done
+ SDL is now opening a 1920x1080 window in 16 depth ...done
+ SDL is now changing the window caption and diverse settings ...done
+ Initialising OpenGL...
+Finished initialising OpenGL.
+Now registering callback functions...done
+ Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+Init_Fonts called...setting up system fonts
+Registering fonts...done
+ Loading system fonts into memory...
+done
+Unregistering fonts...done
+ Finished with Init_Fonts
+ Init_Sound called...setting up sound system
+Compiled with SDL_mixer version: 1.2.7
+Running with SDL_mixer version: 1.2.7
+Finished with Init_Sound
+Init_Music called...loading modules
+Finished with Init_Music
+Creating main menu.
+====== END OF DEBUGGING INFORMATION ====
+Loading profile from C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Loading LAN from data/lans/sample.txt...[Already Loaded]
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+ profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+
+
+===============================================
+NEW GAME     16:55, 14/2/2021
+===============================================
+Version : 10.0
+RELEASE
+Win32 Build
+Version 10.0 (RELEASE)
+Compiled on Feb 14 2021 at 16:53:38
+
+Loading uplink options from C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+
+=====DEBUGGING INFORMATION ENABLED=====
+Initialising Steam...Could not initialize Steam: Function not found.
+Loading application data
+Successfully loaded data archive data.dat
+Successfully loaded data archive graphics.dat
+Successfully loaded data archive loading.dat
+Successfully loaded data archive sounds.dat
+Successfully loaded data archive music.dat
+Successfully loaded data archive fonts.dat
+Successfully loaded data archive patch.dat
+Successfully loaded data archive patch2.dat
+Successfully loaded data archive patch3.dat
+Finished loading application data
+Init_Game called...creating game object
+Finished with Init_Game
+Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+Initialising SDL...done
+ SDL is now opening a 1920x1080 window in 16 depth ...done
+ SDL is now changing the window caption and diverse settings ...done
+ Initialising OpenGL...
+Finished initialising OpenGL.
+Now registering callback functions...done
+ Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+Init_Fonts called...setting up system fonts
+Registering fonts...done
+ Loading system fonts into memory...
+done
+Unregistering fonts...done
+ Finished with Init_Fonts
+ Init_Sound called...setting up sound system
+Compiled with SDL_mixer version: 1.2.7
+Running with SDL_mixer version: 1.2.7
+Finished with Init_Sound
+Init_Music called...loading modules
+Finished with Init_Music
+Creating main menu.
+====== END OF DEBUGGING INFORMATION ====
+Loading profile from C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Loading LAN from data/lans/sample.txt...[Already Loaded]
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Loading LAN from data/lans/sample.txt...done
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test1.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test1.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test1.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test1.usr...success
+Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+
+
+===============================================
+NEW GAME     17:9, 14/2/2021
+===============================================
+Version : 10.0
+RELEASE
+Win32 Build
+Version 10.0 (RELEASE)
+Compiled on Feb 14 2021 at 17:04:32
+
+Loading uplink options from C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+
+=====DEBUGGING INFORMATION ENABLED=====
+Initialising Steam...Could not initialize Steam: Function not found.
+Loading application data
+Successfully loaded data archive data.dat
+Successfully loaded data archive graphics.dat
+Successfully loaded data archive loading.dat
+Successfully loaded data archive sounds.dat
+Successfully loaded data archive music.dat
+Successfully loaded data archive fonts.dat
+Successfully loaded data archive patch.dat
+Successfully loaded data archive patch2.dat
+Successfully loaded data archive patch3.dat
+Finished loading application data
+Init_Game called...creating game object
+Finished with Init_Game
+Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+Initialising SDL...done
+ SDL is now opening a 1920x1080 window in 16 depth ...done
+ SDL is now changing the window caption and diverse settings ...done
+ Initialising OpenGL...
+Finished initialising OpenGL.
+Now registering callback functions...done
+ Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+Init_Fonts called...setting up system fonts
+Registering fonts...done
+ Loading system fonts into memory...
+done
+Unregistering fonts...done
+ Finished with Init_Fonts
+ Init_Sound called...setting up sound system
+Compiled with SDL_mixer version: 1.2.7
+Running with SDL_mixer version: 1.2.7
+Finished with Init_Sound
+Init_Music called...loading modules
+Finished with Init_Music
+Creating main menu.
+====== END OF DEBUGGING INFORMATION ====
+Loading profile from C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Loading LAN from data/lans/sample.txt...[Already Loaded]
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Loading profile from C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...Print Abort: .\app\serialise.cpp ln 869 : Unrecognised OBJECTID=1344300387
+App::LoadGame, Failed to load user profile
+Loading profile from C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test1.usr...success
+Loading LAN from data/lans/sample.txt...[Already Loaded]
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test1.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test1.usr...success
+Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+
+
+===============================================
+NEW GAME     17:14, 14/2/2021
+===============================================
+Version : 10.0
+RELEASE
+Win32 Build
+Version 10.0 (RELEASE)
+Compiled on Feb 14 2021 at 17:12:04
+
+Loading uplink options from C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+
+=====DEBUGGING INFORMATION ENABLED=====
+Initialising Steam...Could not initialize Steam: Function not found.
+Loading application data
+Successfully loaded data archive data.dat
+Successfully loaded data archive graphics.dat
+Successfully loaded data archive loading.dat
+Successfully loaded data archive sounds.dat
+Successfully loaded data archive music.dat
+Successfully loaded data archive fonts.dat
+Successfully loaded data archive patch.dat
+Successfully loaded data archive patch2.dat
+Successfully loaded data archive patch3.dat
+Finished loading application data
+Init_Game called...creating game object
+Finished with Init_Game
+Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+Initialising SDL...done
+ SDL is now opening a 1920x1080 window in 16 depth ...done
+ SDL is now changing the window caption and diverse settings ...done
+ Initialising OpenGL...
+Finished initialising OpenGL.
+Now registering callback functions...done
+ Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+Init_Fonts called...setting up system fonts
+Registering fonts...done
+ Loading system fonts into memory...
+done
+Unregistering fonts...done
+ Finished with Init_Fonts
+ Init_Sound called...setting up sound system
+Compiled with SDL_mixer version: 1.2.7
+Running with SDL_mixer version: 1.2.7
+Finished with Init_Sound
+Init_Music called...loading modules
+Finished with Init_Music
+Creating main menu.
+====== END OF DEBUGGING INFORMATION ====
+Loading profile from C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Loading LAN from data/lans/sample.txt...[Already Loaded]
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test.usr...success
+Loading profile from C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test1.usr...success
+Loading LAN from data/lans/sample.txt...[Already Loaded]
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test1.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test1.usr...success
+Loading LAN from data/lans/sample.txt...done
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.usr...success
+Loading profile from C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.usr...success
+Loading LAN from data/lans/sample.txt...[Already Loaded]
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.usr...success
+Loading profile from C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test1.usr...success
+Loading LAN from data/lans/sample.txt...[Already Loaded]
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test1.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test1.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test1.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test1.usr...success
+Loading profile from C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test1.usr...success
+Loading LAN from data/lans/sample.txt...[Already Loaded]
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test1.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test1.usr...success
+Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+
+
+===============================================
+NEW GAME     17:44, 14/2/2021
+===============================================
+Version : 10.0
+RELEASE
+Win32 Build
+Version 10.0 (RELEASE)
+Compiled on Feb 14 2021 at 17:12:04
+
+Loading uplink options from C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+
+=====DEBUGGING INFORMATION ENABLED=====
+Initialising Steam...Could not initialize Steam: Function not found.
+Loading application data
+Successfully loaded data archive data.dat
+Successfully loaded data archive graphics.dat
+Successfully loaded data archive loading.dat
+Successfully loaded data archive sounds.dat
+Successfully loaded data archive music.dat
+Successfully loaded data archive fonts.dat
+Successfully loaded data archive patch.dat
+Successfully loaded data archive patch2.dat
+Successfully loaded data archive patch3.dat
+Finished loading application data
+Init_Game called...creating game object
+Finished with Init_Game
+Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+Initialising SDL...done
+ SDL is now opening a 1920x1080 window in 16 depth ...done
+ SDL is now changing the window caption and diverse settings ...done
+ Initialising OpenGL...
+Finished initialising OpenGL.
+Now registering callback functions...done
+ Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+Init_Fonts called...setting up system fonts
+Registering fonts...done
+ Loading system fonts into memory...
+done
+Unregistering fonts...done
+ Finished with Init_Fonts
+ Init_Sound called...setting up sound system
+Compiled with SDL_mixer version: 1.2.7
+Running with SDL_mixer version: 1.2.7
+Finished with Init_Sound
+Init_Music called...loading modules
+Finished with Init_Music
+Creating main menu.
+====== END OF DEBUGGING INFORMATION ====
+Loading profile from C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.usr...success
+Loading LAN from data/lans/sample.txt...[Already Loaded]
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.usr...success
+Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+
+
+===============================================
+NEW GAME     18:58, 14/2/2021
+===============================================
+Version : 10.0
+RELEASE
+Win32 Build
+Version 10.0 (RELEASE)
+Compiled on Feb 14 2021 at 18:55:45
+
+Loading uplink options from C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+
+=====DEBUGGING INFORMATION ENABLED=====
+Initialising Steam...Could not initialize Steam: Function not found.
+Loading application data
+Successfully loaded data archive data.dat
+Successfully loaded data archive graphics.dat
+Successfully loaded data archive loading.dat
+Successfully loaded data archive sounds.dat
+Successfully loaded data archive music.dat
+Successfully loaded data archive fonts.dat
+Successfully loaded data archive patch.dat
+Successfully loaded data archive patch2.dat
+Successfully loaded data archive patch3.dat
+Finished loading application data
+Init_Game called...creating game object
+Finished with Init_Game
+Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+Initialising SDL...done
+ SDL is now opening a 1920x1080 window in 16 depth ...done
+ SDL is now changing the window caption and diverse settings ...done
+ Initialising OpenGL...
+Finished initialising OpenGL.
+Now registering callback functions...done
+ Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+Init_Fonts called...setting up system fonts
+Registering fonts...done
+ Loading system fonts into memory...
+done
+Unregistering fonts...done
+ Finished with Init_Fonts
+ Init_Sound called...setting up sound system
+Compiled with SDL_mixer version: 1.2.7
+Running with SDL_mixer version: 1.2.7
+Finished with Init_Sound
+Init_Music called...loading modules
+Finished with Init_Music
+Creating main menu.
+====== END OF DEBUGGING INFORMATION ====
+Loading profile from C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.usr...success
+Loading LAN from data/lans/sample.txt...[Already Loaded]
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.usr...success
+Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+
+
+===============================================
+NEW GAME     18:58, 14/2/2021
+===============================================
+Version : 10.0
+RELEASE
+Win32 Build
+Version 10.0 (RELEASE)
+Compiled on Feb 14 2021 at 18:55:45
+
+Loading uplink options from C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+
+=====DEBUGGING INFORMATION ENABLED=====
+Initialising Steam...Could not initialize Steam: Function not found.
+Loading application data
+Successfully loaded data archive data.dat
+Successfully loaded data archive graphics.dat
+Successfully loaded data archive loading.dat
+Successfully loaded data archive sounds.dat
+Successfully loaded data archive music.dat
+Successfully loaded data archive fonts.dat
+Successfully loaded data archive patch.dat
+Successfully loaded data archive patch2.dat
+Successfully loaded data archive patch3.dat
+Finished loading application data
+Init_Game called...creating game object
+Finished with Init_Game
+Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+Initialising SDL...done
+ SDL is now opening a 1920x1080 window in 16 depth ...done
+ SDL is now changing the window caption and diverse settings ...done
+ Initialising OpenGL...
+Finished initialising OpenGL.
+Now registering callback functions...done
+ Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+Init_Fonts called...setting up system fonts
+Registering fonts...done
+ Loading system fonts into memory...
+done
+Unregistering fonts...done
+ Finished with Init_Fonts
+ Init_Sound called...setting up sound system
+Compiled with SDL_mixer version: 1.2.7
+Running with SDL_mixer version: 1.2.7
+Finished with Init_Sound
+Init_Music called...loading modules
+Finished with Init_Music
+Creating main menu.
+====== END OF DEBUGGING INFORMATION ====
+Loading profile from C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.usr...success
+Loading LAN from data/lans/sample.txt...[Already Loaded]
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.usr...success
+Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+
+
+===============================================
+NEW GAME     19:2, 14/2/2021
+===============================================
+Version : 10.0
+RELEASE
+Win32 Build
+Version 10.0 (RELEASE)
+Compiled on Feb 14 2021 at 19:00:39
+
+Loading uplink options from C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+
+=====DEBUGGING INFORMATION ENABLED=====
+Initialising Steam...Could not initialize Steam: Function not found.
+Loading application data
+Successfully loaded data archive data.dat
+Successfully loaded data archive graphics.dat
+Successfully loaded data archive loading.dat
+Successfully loaded data archive sounds.dat
+Successfully loaded data archive music.dat
+Successfully loaded data archive fonts.dat
+Successfully loaded data archive patch.dat
+Successfully loaded data archive patch2.dat
+Successfully loaded data archive patch3.dat
+Finished loading application data
+Init_Game called...creating game object
+Finished with Init_Game
+Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+Initialising SDL...done
+ SDL is now opening a 1920x1080 window in 16 depth ...done
+ SDL is now changing the window caption and diverse settings ...done
+ Initialising OpenGL...
+Finished initialising OpenGL.
+Now registering callback functions...done
+ Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+Init_Fonts called...setting up system fonts
+Registering fonts...done
+ Loading system fonts into memory...
+done
+Unregistering fonts...done
+ Finished with Init_Fonts
+ Init_Sound called...setting up sound system
+Compiled with SDL_mixer version: 1.2.7
+Running with SDL_mixer version: 1.2.7
+Finished with Init_Sound
+Init_Music called...loading modules
+Finished with Init_Music
+Creating main menu.
+====== END OF DEBUGGING INFORMATION ====
+Loading profile from C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.usr...success
+Loading LAN from data/lans/sample.txt...[Already Loaded]
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.usr...success
+Saving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.tmp...success. Moving profile to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/test2.usr...success
+Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+
+
+===============================================
+NEW GAME     19:18, 14/2/2021
+===============================================
+Version : 10.0
+RELEASE
+Win32 Build
+Version 10.0 (RELEASE)
+Compiled on Feb 14 2021 at 19:00:39
+
+Loading uplink options from C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+
+=====DEBUGGING INFORMATION ENABLED=====
+Initialising Steam...Could not initialize Steam: Function not found.
+Loading application data
+Successfully loaded data archive data.dat
+Successfully loaded data archive graphics.dat
+Successfully loaded data archive loading.dat
+Successfully loaded data archive sounds.dat
+Successfully loaded data archive music.dat
+Successfully loaded data archive fonts.dat
+Successfully loaded data archive patch.dat
+Successfully loaded data archive patch2.dat
+Successfully loaded data archive patch3.dat
+Finished loading application data
+Init_Game called...creating game object
+Finished with Init_Game
+Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+Initialising SDL...done
+ SDL is now opening a 1920x1080 window in 16 depth ...done
+ SDL is now changing the window caption and diverse settings ...done
+ Initialising OpenGL...
+Finished initialising OpenGL.
+Now registering callback functions...done
+ Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success
+Init_Fonts called...setting up system fonts
+Registering fonts...done
+ Loading system fonts into memory...
+done
+Unregistering fonts...done
+ Finished with Init_Fonts
+ Init_Sound called...setting up sound system
+Compiled with SDL_mixer version: 1.2.7
+Running with SDL_mixer version: 1.2.7
+Finished with Init_Sound
+Init_Music called...loading modules
+Finished with Init_Music
+Creating main menu.
+====== END OF DEBUGGING INFORMATION ====
+Saving uplink options to C:\Users\User\Documents\uplink-source-code-master\uplink-source-code-master\uplink\bin\users/options...success

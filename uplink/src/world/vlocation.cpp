@@ -27,7 +27,7 @@ VLocation::VLocation()
 	listed = true;
     displayed = true;
 	colored = false;
-
+	phone = false;
 }
 
 VLocation::~VLocation()
@@ -180,6 +180,7 @@ bool VLocation::Load ( FILE *file )
 
 	if ( strcmp( game->GetLoadedSavefileVer(), "SAV60" ) >= 0 ) {
 		if ( !FileReadData ( &colored, sizeof(colored), 1, file ) ) return false;
+		//if ( !FileReadData ( &phone, sizeof(phone), 1, file ) ) return false;
 	}
     
 	LoadID_END ( file );
@@ -202,7 +203,7 @@ void VLocation::Save ( FILE *file )
     fwrite ( &displayed, sizeof(displayed), 1, file );
 
     fwrite ( &colored, sizeof(colored), 1, file );
-
+	//fwrite ( &phone, sizeof(phone), 1, file );
 	SaveID_END ( file );
 
 }

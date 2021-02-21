@@ -39,7 +39,7 @@ WorldMapInterfaceObject::WorldMapInterfaceObject ()
     ip = NULL;
 	isMission = false;
 	isColored = false;
-
+	isPhone = false;
 }
 
 WorldMapInterfaceObject::~WorldMapInterfaceObject ()
@@ -103,6 +103,7 @@ void WorldMapInterfaceObject::CheckIP ()
 
 		VLocation *vl;
 		isColored = ( ( vl = game->GetWorld()->GetVLocation( ip ) ) && vl->colored );
+		isPhone = ( ( vl = game->GetWorld()->GetVLocation( ip ) ) && vl->phone );
 	}
 	else {
 		isMission = false;
@@ -135,12 +136,14 @@ void WorldMapInterfaceObject::Draw ( int xOffset, int yOffset, float zoom )
 
 			if ( isMission )
 				//glColor4f ( 119.0f / 255.0f, 210.0f / 255.0f, 221.0f / 255.0f, 1.0f );
-				glColor4f ( 0.0f, 1.0f, 0.0f, 1.0f );
+				glColor4f ( 0.0f, 1.0f, 0.0f, 1.0f ); // Green
 			else if ( isColored )
-				//glColor4f ( 0.4f, 0.4f, 0.6f, 1.0f );
+				//glColor4f ( 0.4f, 0.4f, 0.6f, 1.0f ); // Dark Grey
 				glColor4f ( 1.0f, 0.5f, 0.0f, 1.0f );
+			else if ( isPhone )
+				glColor4f ( 1.0f, 0.0f, 1.0f, 1.0f ); // Purple
 			else
-				glColor4f ( 1.0f, 1.0f, 1.0f, 1.0f );
+				glColor4f ( 1.0f, 1.0f, 1.0f, 1.0f ); // White
 
             int xPos = (int) ( 23 + ( (x - 23) - xOffset ) * zoom );
             int yPos = (int) ( 50 + ( (y - 50) - yOffset ) * zoom );
@@ -249,8 +252,16 @@ void WorldMapInterfaceLabel::Draw ( int xOffset, int yOffset, float zoom )
         xPos += dX;
         yPos += dY;
 
+		
         if ( xPos >= 0 && yPos >= 0 ) {
-            glColor4f ( 1.0f, 1.0f, 1.0f, 1.0f );        
+           
+			if (strstr(caption, "Phone")){
+				 glColor4f( 1.0f, 1.0f, 0.0f, 0.0f );
+			} 
+			else
+			{
+				glColor4f ( 1.0f, 1.0f, 1.0f, 1.0f );  
+			}
             GciDrawText ( xPos, yPos + 7, caption );
         }
 

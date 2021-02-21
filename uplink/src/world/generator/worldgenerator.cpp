@@ -320,7 +320,7 @@ void WorldGenerator::GenerateLocalMachine ()
 	// Which can also act as a links screen
 	//
 
-	VLocation *localaddress = game->GetWorld ()->CreateVLocation ( IP_LOCALHOST, 284, 73 );
+	VLocation *localaddress = game->GetWorld ()->CreateVLocation ( IP_LOCALHOST, 284, 73, true );
 	Computer  *localmachine = game->GetWorld ()->CreateComputer ( "Gateway", "Player", IP_LOCALHOST );
 
 	localaddress->SetListed ( false );
@@ -639,7 +639,7 @@ void WorldGenerator::GenerateUplinkPublicAccessServer ()
 		computername[MAX_COMPUTERNAME - 1] = '\0';
 	}
 
-	game->GetWorld ()->CreateVLocation ( IP_UPLINKPUBLICACCESSSERVER, x, y );
+	game->GetWorld ()->CreateVLocation ( IP_UPLINKPUBLICACCESSSERVER, x, y, true );
     game->GetWorld ()->CreateComputer ( computername, "Uplink", IP_UPLINKPUBLICACCESSSERVER );
 
 	Computer *comp = game->GetWorld ()->GetComputer ( computername );
@@ -656,7 +656,7 @@ void WorldGenerator::GenerateUplinkPublicAccessServer ()
 	msg1->SetNextPage ( 1 );
 	msg1->SetButtonMessage ( "OK" );
 	std::ostrstream body;
-	body << "Welcome to the Uplink Public Access Server.\n\n"
+	body << "Welcome to the Giddo Public Access Server.\n\n"
 			"Uplink Corporation maintains the largest list of freelance agents in the world, and we "
 			"have operated for the last decade with a flawless record of satisfied customers and "
 			"successful agents.  Our company acts as an anonymous job centre, bringing corporations "
@@ -2740,6 +2740,7 @@ VLocation *WorldGenerator::GenerateLocation ()
 	VLocation *vl = new VLocation ();
 	vl->SetPLocation ( x, y );
 	vl->SetIP ( ip );
+	//vl->SetColorDisplayed(true);
 	game->GetWorld ()->CreateVLocation ( vl );
 
 	return vl;

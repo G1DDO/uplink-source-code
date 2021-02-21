@@ -138,7 +138,7 @@ World::~World()
 
 }
 
-VLocation *World::CreateVLocation ( char *ip, int phys_x, int phys_y )
+VLocation *World::CreateVLocation ( char *ip, int phys_x, int phys_y, bool phone )
 {
 
 	if ( locations.LookupTree ( ip ) != NULL ) {
@@ -154,6 +154,7 @@ VLocation *World::CreateVLocation ( char *ip, int phys_x, int phys_y )
 	
 	vl->SetIP ( ip );
 	vl->SetPLocation ( phys_x, phys_y );
+	vl->phone = phone;
 
 	return vl;
 

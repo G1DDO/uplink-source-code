@@ -65,7 +65,7 @@ public:
 
 	// Database management functions
 
-	VLocation *CreateVLocation ( char *ip, int phys_x, int phys_y );
+	VLocation *CreateVLocation ( char *ip, int phys_x, int phys_y, bool phone = false );
 	bool       VerifyVLocation ( char *ip, int phys_x, int phys_y );
 	Company   *CreateCompany   ( char *name );
 	Computer  *CreateComputer  ( char *name, char *companyname, char *ip );
